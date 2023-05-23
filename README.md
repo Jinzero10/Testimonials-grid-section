@@ -20,4 +20,4 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click Here!](https://github.com/Jinzero10/Testimonials-grid-section.git)
-- Live Site URL: [Click Here!](https://your-live-site-url.com)
+- Live Site URL: [Click Here!](https://testimonial-grid-section-jin.netlify.app/)
